@@ -4,3 +4,4 @@
 ## ENVELOPE: A -> Startup, 6 desenvolvedores, sem equipe de operação
 ### INTEGRANTES:
 Lucas Bertola da Silva RA: 22005810
+Nathalia Alves Dias Alecio RA: 24795510
