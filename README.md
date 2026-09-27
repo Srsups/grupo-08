@@ -5,3 +5,4 @@
 ### INTEGRANTES:
 Lucas Bertola da Silva RA: 22005810
 Nathalia Alves Dias Alecio RA: 24795510
+Luiz Augusto Zamudio RA: 22001073
